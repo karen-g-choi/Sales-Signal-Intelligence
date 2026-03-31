@@ -1,0 +1,5 @@
+region_id,region_name,market_type
+REGION_SE,Stockholm Metro,urban_core
+REGION_SE_W,West Sweden,mixed_urban
+REGION_SE_E,East Central Sweden,growth_corridor
+REGION_SE_N,North Sweden,sparse_regional

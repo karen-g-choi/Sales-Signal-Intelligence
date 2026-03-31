@@ -1,0 +1,660 @@
+month_start,customer_id,customer_name,category_l1,target_sales_amount,target_quantity
+2024-01-01,CUST_A,NordAuto Stockholm,Accessories,3464.99,10
+2024-02-01,CUST_A,NordAuto Stockholm,Accessories,3254.87,10
+2024-03-01,CUST_A,NordAuto Stockholm,Accessories,3004.59,9
+2024-04-01,CUST_A,NordAuto Stockholm,Accessories,2926.7,8
+2024-05-01,CUST_A,NordAuto Stockholm,Accessories,2739.93,8
+2024-06-01,CUST_A,NordAuto Stockholm,Accessories,2732.0,8
+2024-07-01,CUST_A,NordAuto Stockholm,Accessories,2906.96,8
+2024-08-01,CUST_A,NordAuto Stockholm,Accessories,2731.58,8
+2024-09-01,CUST_A,NordAuto Stockholm,Accessories,2939.82,8
+2024-10-01,CUST_A,NordAuto Stockholm,Accessories,3249.99,10
+2024-11-01,CUST_A,NordAuto Stockholm,Accessories,2759.61,8
+2024-12-01,CUST_A,NordAuto Stockholm,Accessories,2956.93,8
+2025-01-01,CUST_A,NordAuto Stockholm,Accessories,2757.77,8
+2025-02-01,CUST_A,NordAuto Stockholm,Accessories,2738.02,8
+2025-03-01,CUST_A,NordAuto Stockholm,Accessories,2947.13,8
+2025-04-01,CUST_A,NordAuto Stockholm,Accessories,2748.52,8
+2025-05-01,CUST_A,NordAuto Stockholm,Accessories,2745.52,8
+2025-06-01,CUST_A,NordAuto Stockholm,Accessories,2915.52,8
+2025-07-01,CUST_A,NordAuto Stockholm,Accessories,2720.85,8
+2025-08-01,CUST_A,NordAuto Stockholm,Accessories,2722.7,8
+2025-09-01,CUST_A,NordAuto Stockholm,Accessories,2918.25,8
+2025-10-01,CUST_A,NordAuto Stockholm,Accessories,2759.17,8
+2025-11-01,CUST_A,NordAuto Stockholm,Accessories,2770.62,8
+2025-12-01,CUST_A,NordAuto Stockholm,Accessories,2898.05,8
+2024-01-01,CUST_A,NordAuto Stockholm,Dealer Launch,3922.74,6
+2024-02-01,CUST_A,NordAuto Stockholm,Dealer Launch,3588.69,6
+2024-03-01,CUST_A,NordAuto Stockholm,Dealer Launch,3091.03,5
+2024-04-01,CUST_A,NordAuto Stockholm,Dealer Launch,2767.18,4
+2024-05-01,CUST_A,NordAuto Stockholm,Dealer Launch,2592.13,4
+2024-06-01,CUST_A,NordAuto Stockholm,Dealer Launch,2583.91,4
+2024-07-01,CUST_A,NordAuto Stockholm,Dealer Launch,2745.93,4
+2024-08-01,CUST_A,NordAuto Stockholm,Dealer Launch,2572.56,4
+2024-09-01,CUST_A,NordAuto Stockholm,Dealer Launch,2762.52,4
+2024-10-01,CUST_A,NordAuto Stockholm,Dealer Launch,3070.23,5
+2024-11-01,CUST_A,NordAuto Stockholm,Dealer Launch,2623.54,4
+2024-12-01,CUST_A,NordAuto Stockholm,Dealer Launch,2823.37,4
+2025-01-01,CUST_A,NordAuto Stockholm,Dealer Launch,2627.14,4
+2025-02-01,CUST_A,NordAuto Stockholm,Dealer Launch,2588.21,4
+2025-03-01,CUST_A,NordAuto Stockholm,Dealer Launch,2781.11,4
+2025-04-01,CUST_A,NordAuto Stockholm,Dealer Launch,2588.23,4
+2025-05-01,CUST_A,NordAuto Stockholm,Dealer Launch,2567.42,4
+2025-06-01,CUST_A,NordAuto Stockholm,Dealer Launch,2716.95,4
+2025-07-01,CUST_A,NordAuto Stockholm,Dealer Launch,2549.53,4
+2025-08-01,CUST_A,NordAuto Stockholm,Dealer Launch,2556.64,4
+2025-09-01,CUST_A,NordAuto Stockholm,Dealer Launch,2751.76,4
+2025-10-01,CUST_A,NordAuto Stockholm,Dealer Launch,2591.26,4
+2025-11-01,CUST_A,NordAuto Stockholm,Dealer Launch,2595.21,4
+2025-12-01,CUST_A,NordAuto Stockholm,Dealer Launch,2917.1,4
+2024-01-01,CUST_A,NordAuto Stockholm,Diagnostics,10955.62,18
+2024-02-01,CUST_A,NordAuto Stockholm,Diagnostics,10027.93,17
+2024-03-01,CUST_A,NordAuto Stockholm,Diagnostics,8642.27,15
+2024-04-01,CUST_A,NordAuto Stockholm,Diagnostics,7769.83,13
+2024-05-01,CUST_A,NordAuto Stockholm,Diagnostics,7278.04,12
+2024-06-01,CUST_A,NordAuto Stockholm,Diagnostics,7268.19,12
+2024-07-01,CUST_A,NordAuto Stockholm,Diagnostics,7722.65,13
+2024-08-01,CUST_A,NordAuto Stockholm,Diagnostics,7247.01,12
+2024-09-01,CUST_A,NordAuto Stockholm,Diagnostics,7742.27,13
+2024-10-01,CUST_A,NordAuto Stockholm,Diagnostics,8613.91,15
+2024-11-01,CUST_A,NordAuto Stockholm,Diagnostics,7543.61,12
+2024-12-01,CUST_A,NordAuto Stockholm,Diagnostics,9064.17,14
+2025-01-01,CUST_A,NordAuto Stockholm,Diagnostics,8358.74,13
+2025-02-01,CUST_A,NordAuto Stockholm,Diagnostics,8557.94,15
+2025-03-01,CUST_A,NordAuto Stockholm,Diagnostics,9122.19,15
+2025-04-01,CUST_A,NordAuto Stockholm,Diagnostics,8588.4,15
+2025-05-01,CUST_A,NordAuto Stockholm,Diagnostics,7255.14,12
+2025-06-01,CUST_A,NordAuto Stockholm,Diagnostics,7692.57,13
+2025-07-01,CUST_A,NordAuto Stockholm,Diagnostics,7181.4,12
+2025-08-01,CUST_A,NordAuto Stockholm,Diagnostics,7238.98,12
+2025-09-01,CUST_A,NordAuto Stockholm,Diagnostics,7781.84,13
+2025-10-01,CUST_A,NordAuto Stockholm,Diagnostics,7375.16,12
+2025-11-01,CUST_A,NordAuto Stockholm,Diagnostics,7863.89,13
+2025-12-01,CUST_A,NordAuto Stockholm,Diagnostics,9204.42,15
+2024-01-01,CUST_A,NordAuto Stockholm,EV Service,8870.16,10
+2024-02-01,CUST_A,NordAuto Stockholm,EV Service,8344.92,10
+2024-03-01,CUST_A,NordAuto Stockholm,EV Service,7710.82,9
+2024-04-01,CUST_A,NordAuto Stockholm,EV Service,7510.11,8
+2024-05-01,CUST_A,NordAuto Stockholm,EV Service,7021.0,8
+2024-06-01,CUST_A,NordAuto Stockholm,EV Service,6990.8,8
+2024-07-01,CUST_A,NordAuto Stockholm,EV Service,7426.78,8
+2024-08-01,CUST_A,NordAuto Stockholm,EV Service,6990.44,8
+2024-09-01,CUST_A,NordAuto Stockholm,EV Service,7484.93,8
+2024-10-01,CUST_A,NordAuto Stockholm,EV Service,8335.29,10
+2024-11-01,CUST_A,NordAuto Stockholm,EV Service,7079.59,8
+2024-12-01,CUST_A,NordAuto Stockholm,EV Service,7599.46,8
+2025-01-01,CUST_A,NordAuto Stockholm,EV Service,7060.11,8
+2025-02-01,CUST_A,NordAuto Stockholm,EV Service,7009.75,8
+2025-03-01,CUST_A,NordAuto Stockholm,EV Service,7516.51,8
+2025-04-01,CUST_A,NordAuto Stockholm,EV Service,7045.52,8
+2025-05-01,CUST_A,NordAuto Stockholm,EV Service,7039.9,8
+2025-06-01,CUST_A,NordAuto Stockholm,EV Service,7474.48,8
+2025-07-01,CUST_A,NordAuto Stockholm,EV Service,6973.94,8
+2025-08-01,CUST_A,NordAuto Stockholm,EV Service,6944.27,8
+2025-09-01,CUST_A,NordAuto Stockholm,EV Service,7497.7,8
+2025-10-01,CUST_A,NordAuto Stockholm,EV Service,7099.93,8
+2025-11-01,CUST_A,NordAuto Stockholm,EV Service,7793.05,8
+2025-12-01,CUST_A,NordAuto Stockholm,EV Service,9802.25,11
+2024-01-01,CUST_A,NordAuto Stockholm,Maintenance,21485.36,123
+2024-02-01,CUST_A,NordAuto Stockholm,Maintenance,20158.42,119
+2024-03-01,CUST_A,NordAuto Stockholm,Maintenance,18486.09,108
+2024-04-01,CUST_A,NordAuto Stockholm,Maintenance,17806.93,100
+2024-05-01,CUST_A,NordAuto Stockholm,Maintenance,16415.28,96
+2024-06-01,CUST_A,NordAuto Stockholm,Maintenance,16131.13,94
+2024-07-01,CUST_A,NordAuto Stockholm,Maintenance,16306.62,92
+2024-08-01,CUST_A,NordAuto Stockholm,Maintenance,15252.08,89
+2024-09-01,CUST_A,NordAuto Stockholm,Maintenance,16384.45,91
+2024-10-01,CUST_A,NordAuto Stockholm,Maintenance,17927.39,103
+2024-11-01,CUST_A,NordAuto Stockholm,Maintenance,16994.44,96
+2024-12-01,CUST_A,NordAuto Stockholm,Maintenance,18627.76,102
+2025-01-01,CUST_A,NordAuto Stockholm,Maintenance,21186.49,122
+2025-02-01,CUST_A,NordAuto Stockholm,Maintenance,17114.61,99
+2025-03-01,CUST_A,NordAuto Stockholm,Maintenance,18379.94,102
+2025-04-01,CUST_A,NordAuto Stockholm,Maintenance,20290.34,116
+2025-05-01,CUST_A,NordAuto Stockholm,Maintenance,16386.69,95
+2025-06-01,CUST_A,NordAuto Stockholm,Maintenance,16918.76,95
+2025-07-01,CUST_A,NordAuto Stockholm,Maintenance,18171.52,104
+2025-08-01,CUST_A,NordAuto Stockholm,Maintenance,15831.41,92
+2025-09-01,CUST_A,NordAuto Stockholm,Maintenance,19974.29,114
+2025-10-01,CUST_A,NordAuto Stockholm,Maintenance,16634.75,95
+2025-11-01,CUST_A,NordAuto Stockholm,Maintenance,17284.57,97
+2025-12-01,CUST_A,NordAuto Stockholm,Maintenance,22034.98,126
+2024-01-01,CUST_A,NordAuto Stockholm,Powertrain,18950.37,58
+2024-02-01,CUST_A,NordAuto Stockholm,Powertrain,17709.05,56
+2024-03-01,CUST_A,NordAuto Stockholm,Powertrain,16119.5,50
+2024-04-01,CUST_A,NordAuto Stockholm,Powertrain,15502.52,46
+2024-05-01,CUST_A,NordAuto Stockholm,Powertrain,14440.86,45
+2024-06-01,CUST_A,NordAuto Stockholm,Powertrain,14208.4,44
+2024-07-01,CUST_A,NordAuto Stockholm,Powertrain,14996.06,46
+2024-08-01,CUST_A,NordAuto Stockholm,Powertrain,14096.98,44
+2024-09-01,CUST_A,NordAuto Stockholm,Powertrain,14860.68,45
+2024-10-01,CUST_A,NordAuto Stockholm,Powertrain,16536.11,51
+2024-11-01,CUST_A,NordAuto Stockholm,Powertrain,14514.59,45
+2024-12-01,CUST_A,NordAuto Stockholm,Powertrain,15644.61,46
+2025-01-01,CUST_A,NordAuto Stockholm,Powertrain,18538.45,57
+2025-02-01,CUST_A,NordAuto Stockholm,Powertrain,14551.39,45
+2025-03-01,CUST_A,NordAuto Stockholm,Powertrain,15481.63,46
+2025-04-01,CUST_A,NordAuto Stockholm,Powertrain,17781.37,55
+2025-05-01,CUST_A,NordAuto Stockholm,Powertrain,14137.13,44
+2025-06-01,CUST_A,NordAuto Stockholm,Powertrain,13611.12,42
+2025-07-01,CUST_A,NordAuto Stockholm,Powertrain,17029.26,52
+2025-08-01,CUST_A,NordAuto Stockholm,Powertrain,13673.9,42
+2025-09-01,CUST_A,NordAuto Stockholm,Powertrain,17634.65,55
+2025-10-01,CUST_A,NordAuto Stockholm,Powertrain,14160.97,44
+2025-11-01,CUST_A,NordAuto Stockholm,Powertrain,14194.53,44
+2025-12-01,CUST_A,NordAuto Stockholm,Powertrain,18021.3,56
+2024-01-01,CUST_A,NordAuto Stockholm,Repair,36364.74,52
+2024-02-01,CUST_A,NordAuto Stockholm,Repair,34214.06,50
+2024-03-01,CUST_A,NordAuto Stockholm,Repair,31620.87,46
+2024-04-01,CUST_A,NordAuto Stockholm,Repair,30725.15,43
+2024-05-01,CUST_A,NordAuto Stockholm,Repair,28664.59,41
+2024-06-01,CUST_A,NordAuto Stockholm,Repair,28587.15,41
+2024-07-01,CUST_A,NordAuto Stockholm,Repair,30258.71,42
+2024-08-01,CUST_A,NordAuto Stockholm,Repair,28527.26,41
+2024-09-01,CUST_A,NordAuto Stockholm,Repair,38153.48,48
+2024-10-01,CUST_A,NordAuto Stockholm,Repair,33810.4,49
+2024-11-01,CUST_A,NordAuto Stockholm,Repair,29263.3,42
+2024-12-01,CUST_A,NordAuto Stockholm,Repair,32584.09,45
+2025-01-01,CUST_A,NordAuto Stockholm,Repair,35433.7,51
+2025-02-01,CUST_A,NordAuto Stockholm,Repair,34323.88,47
+2025-03-01,CUST_A,NordAuto Stockholm,Repair,39946.77,56
+2025-04-01,CUST_A,NordAuto Stockholm,Repair,35537.53,52
+2025-05-01,CUST_A,NordAuto Stockholm,Repair,35187.86,51
+2025-06-01,CUST_A,NordAuto Stockholm,Repair,29434.95,41
+2025-07-01,CUST_A,NordAuto Stockholm,Repair,34813.36,50
+2025-08-01,CUST_A,NordAuto Stockholm,Repair,28099.33,40
+2025-09-01,CUST_A,NordAuto Stockholm,Repair,71904.04,88
+2025-10-01,CUST_A,NordAuto Stockholm,Repair,28310.62,41
+2025-11-01,CUST_A,NordAuto Stockholm,Repair,28800.38,42
+2025-12-01,CUST_A,NordAuto Stockholm,Repair,39972.53,57
+2024-01-01,CUST_A,NordAuto Stockholm,Service,20000.84,61
+2024-02-01,CUST_A,NordAuto Stockholm,Service,18833.18,60
+2024-03-01,CUST_A,NordAuto Stockholm,Service,17429.27,54
+2024-04-01,CUST_A,NordAuto Stockholm,Service,17012.69,51
+2024-05-01,CUST_A,NordAuto Stockholm,Service,15726.44,49
+2024-06-01,CUST_A,NordAuto Stockholm,Service,15347.21,48
+2024-07-01,CUST_A,NordAuto Stockholm,Service,15872.19,48
+2024-08-01,CUST_A,NordAuto Stockholm,Service,14842.12,47
+2024-09-01,CUST_A,NordAuto Stockholm,Service,15651.47,47
+2024-10-01,CUST_A,NordAuto Stockholm,Service,17325.71,54
+2024-11-01,CUST_A,NordAuto Stockholm,Service,16197.84,51
+2024-12-01,CUST_A,NordAuto Stockholm,Service,17513.34,53
+2025-01-01,CUST_A,NordAuto Stockholm,Service,16363.1,51
+2025-02-01,CUST_A,NordAuto Stockholm,Service,16310.88,51
+2025-03-01,CUST_A,NordAuto Stockholm,Service,17576.13,53
+2025-04-01,CUST_A,NordAuto Stockholm,Service,16218.64,51
+2025-05-01,CUST_A,NordAuto Stockholm,Service,15518.62,48
+2025-06-01,CUST_A,NordAuto Stockholm,Service,15967.23,48
+2025-07-01,CUST_A,NordAuto Stockholm,Service,14936.71,47
+2025-08-01,CUST_A,NordAuto Stockholm,Service,14866.69,47
+2025-09-01,CUST_A,NordAuto Stockholm,Service,15585.05,47
+2025-10-01,CUST_A,NordAuto Stockholm,Service,15012.84,46
+2025-11-01,CUST_A,NordAuto Stockholm,Service,16102.51,48
+2025-12-01,CUST_A,NordAuto Stockholm,Service,17010.37,50
+2024-01-01,CUST_B,Svea Mobility Parts,Diagnostics,3604.32,6
+2024-02-01,CUST_B,Svea Mobility Parts,Diagnostics,3290.29,6
+2024-03-01,CUST_B,Svea Mobility Parts,Diagnostics,2821.77,5
+2024-04-01,CUST_B,Svea Mobility Parts,Diagnostics,2367.87,4
+2024-05-01,CUST_B,Svea Mobility Parts,Diagnostics,2363.15,4
+2024-06-01,CUST_B,Svea Mobility Parts,Diagnostics,2344.17,4
+2024-07-01,CUST_B,Svea Mobility Parts,Diagnostics,2603.36,4
+2024-08-01,CUST_B,Svea Mobility Parts,Diagnostics,2363.41,4
+2024-09-01,CUST_B,Svea Mobility Parts,Diagnostics,2383.48,4
+2024-10-01,CUST_B,Svea Mobility Parts,Diagnostics,2419.64,4
+2024-11-01,CUST_B,Svea Mobility Parts,Diagnostics,2386.97,4
+2024-12-01,CUST_B,Svea Mobility Parts,Diagnostics,2670.92,4
+2025-01-01,CUST_B,Svea Mobility Parts,Diagnostics,2367.47,4
+2025-02-01,CUST_B,Svea Mobility Parts,Diagnostics,2364.79,4
+2025-03-01,CUST_B,Svea Mobility Parts,Diagnostics,2407.61,4
+2025-04-01,CUST_B,Svea Mobility Parts,Diagnostics,2383.65,4
+2025-05-01,CUST_B,Svea Mobility Parts,Diagnostics,2369.52,4
+2025-06-01,CUST_B,Svea Mobility Parts,Diagnostics,2640.62,4
+2025-07-01,CUST_B,Svea Mobility Parts,Diagnostics,2348.82,4
+2025-08-01,CUST_B,Svea Mobility Parts,Diagnostics,2353.61,4
+2025-09-01,CUST_B,Svea Mobility Parts,Diagnostics,2370.01,4
+2025-10-01,CUST_B,Svea Mobility Parts,Diagnostics,2372.78,4
+2025-11-01,CUST_B,Svea Mobility Parts,Diagnostics,2388.2,4
+2025-12-01,CUST_B,Svea Mobility Parts,Diagnostics,2537.35,4
+2024-01-01,CUST_B,Svea Mobility Parts,EV Service,5166.96,6
+2024-02-01,CUST_B,Svea Mobility Parts,EV Service,4563.29,5
+2024-03-01,CUST_B,Svea Mobility Parts,EV Service,3410.32,4
+2024-04-01,CUST_B,Svea Mobility Parts,EV Service,2381.89,3
+2024-05-01,CUST_B,Svea Mobility Parts,EV Service,1732.53,2
+2024-06-01,CUST_B,Svea Mobility Parts,EV Service,1719.15,2
+2024-07-01,CUST_B,Svea Mobility Parts,EV Service,1901.8,2
+2024-08-01,CUST_B,Svea Mobility Parts,EV Service,1725.99,2
+2024-09-01,CUST_B,Svea Mobility Parts,EV Service,1730.44,2
+2024-10-01,CUST_B,Svea Mobility Parts,EV Service,1734.78,2
+2024-11-01,CUST_B,Svea Mobility Parts,EV Service,1938.89,2
+2024-12-01,CUST_B,Svea Mobility Parts,EV Service,2328.94,2
+2025-01-01,CUST_B,Svea Mobility Parts,EV Service,2823.41,3
+2025-02-01,CUST_B,Svea Mobility Parts,EV Service,3472.0,4
+2025-03-01,CUST_B,Svea Mobility Parts,EV Service,3480.01,4
+2025-04-01,CUST_B,Svea Mobility Parts,EV Service,3459.65,4
+2025-05-01,CUST_B,Svea Mobility Parts,EV Service,3427.14,4
+2025-06-01,CUST_B,Svea Mobility Parts,EV Service,3617.85,4
+2025-07-01,CUST_B,Svea Mobility Parts,EV Service,3375.08,4
+2025-08-01,CUST_B,Svea Mobility Parts,EV Service,3399.88,4
+2025-09-01,CUST_B,Svea Mobility Parts,EV Service,3417.21,4
+2025-10-01,CUST_B,Svea Mobility Parts,EV Service,3444.21,4
+2025-11-01,CUST_B,Svea Mobility Parts,EV Service,3477.03,4
+2025-12-01,CUST_B,Svea Mobility Parts,EV Service,3706.43,4
+2024-01-01,CUST_B,Svea Mobility Parts,Maintenance,12282.06,70
+2024-02-01,CUST_B,Svea Mobility Parts,Maintenance,11149.34,66
+2024-03-01,CUST_B,Svea Mobility Parts,Maintenance,9324.09,55
+2024-04-01,CUST_B,Svea Mobility Parts,Maintenance,7546.8,44
+2024-05-01,CUST_B,Svea Mobility Parts,Maintenance,7227.9,41
+2024-06-01,CUST_B,Svea Mobility Parts,Maintenance,7142.54,41
+2024-07-01,CUST_B,Svea Mobility Parts,Maintenance,7839.62,44
+2024-08-01,CUST_B,Svea Mobility Parts,Maintenance,7133.31,41
+2024-09-01,CUST_B,Svea Mobility Parts,Maintenance,7163.49,41
+2024-10-01,CUST_B,Svea Mobility Parts,Maintenance,7439.66,42
+2024-11-01,CUST_B,Svea Mobility Parts,Maintenance,7535.63,42
+2024-12-01,CUST_B,Svea Mobility Parts,Maintenance,8841.98,48
+2025-01-01,CUST_B,Svea Mobility Parts,Maintenance,12377.9,71
+2025-02-01,CUST_B,Svea Mobility Parts,Maintenance,8020.8,46
+2025-03-01,CUST_B,Svea Mobility Parts,Maintenance,7848.56,46
+2025-04-01,CUST_B,Svea Mobility Parts,Maintenance,7708.27,45
+2025-05-01,CUST_B,Svea Mobility Parts,Maintenance,7431.94,42
+2025-06-01,CUST_B,Svea Mobility Parts,Maintenance,7903.23,44
+2025-07-01,CUST_B,Svea Mobility Parts,Maintenance,10569.66,61
+2025-08-01,CUST_B,Svea Mobility Parts,Maintenance,7098.78,41
+2025-09-01,CUST_B,Svea Mobility Parts,Maintenance,7355.43,42
+2025-10-01,CUST_B,Svea Mobility Parts,Maintenance,7876.83,45
+2025-11-01,CUST_B,Svea Mobility Parts,Maintenance,8097.07,47
+2025-12-01,CUST_B,Svea Mobility Parts,Maintenance,12044.16,69
+2024-01-01,CUST_B,Svea Mobility Parts,Powertrain,10724.63,33
+2024-02-01,CUST_B,Svea Mobility Parts,Powertrain,9800.05,31
+2024-03-01,CUST_B,Svea Mobility Parts,Powertrain,8424.3,26
+2024-04-01,CUST_B,Svea Mobility Parts,Powertrain,6951.94,22
+2024-05-01,CUST_B,Svea Mobility Parts,Powertrain,6733.26,21
+2024-06-01,CUST_B,Svea Mobility Parts,Powertrain,6314.27,20
+2024-07-01,CUST_B,Svea Mobility Parts,Powertrain,6594.27,20
+2024-08-01,CUST_B,Svea Mobility Parts,Powertrain,5908.71,19
+2024-09-01,CUST_B,Svea Mobility Parts,Powertrain,5963.08,18
+2024-10-01,CUST_B,Svea Mobility Parts,Powertrain,6680.13,20
+2024-11-01,CUST_B,Svea Mobility Parts,Powertrain,6672.08,20
+2024-12-01,CUST_B,Svea Mobility Parts,Powertrain,7846.81,23
+2025-01-01,CUST_B,Svea Mobility Parts,Powertrain,10722.53,33
+2025-02-01,CUST_B,Svea Mobility Parts,Powertrain,7101.05,22
+2025-03-01,CUST_B,Svea Mobility Parts,Powertrain,7121.47,22
+2025-04-01,CUST_B,Svea Mobility Parts,Powertrain,6721.46,21
+2025-05-01,CUST_B,Svea Mobility Parts,Powertrain,6102.22,19
+2025-06-01,CUST_B,Svea Mobility Parts,Powertrain,6349.09,19
+2025-07-01,CUST_B,Svea Mobility Parts,Powertrain,8658.19,27
+2025-08-01,CUST_B,Svea Mobility Parts,Powertrain,5748.84,18
+2025-09-01,CUST_B,Svea Mobility Parts,Powertrain,6529.53,20
+2025-10-01,CUST_B,Svea Mobility Parts,Powertrain,7068.37,22
+2025-11-01,CUST_B,Svea Mobility Parts,Powertrain,6954.56,22
+2025-12-01,CUST_B,Svea Mobility Parts,Powertrain,10524.72,33
+2024-01-01,CUST_B,Svea Mobility Parts,Repair,21061.0,30
+2024-02-01,CUST_B,Svea Mobility Parts,Repair,19248.4,28
+2024-03-01,CUST_B,Svea Mobility Parts,Repair,15945.59,24
+2024-04-01,CUST_B,Svea Mobility Parts,Repair,13104.38,19
+2024-05-01,CUST_B,Svea Mobility Parts,Repair,10957.23,16
+2024-06-01,CUST_B,Svea Mobility Parts,Repair,10866.11,16
+2024-07-01,CUST_B,Svea Mobility Parts,Repair,12099.0,17
+2024-08-01,CUST_B,Svea Mobility Parts,Repair,10949.02,16
+2024-09-01,CUST_B,Svea Mobility Parts,Repair,11462.87,16
+2024-10-01,CUST_B,Svea Mobility Parts,Repair,12844.29,18
+2024-11-01,CUST_B,Svea Mobility Parts,Repair,13053.58,18
+2024-12-01,CUST_B,Svea Mobility Parts,Repair,15358.4,21
+2025-01-01,CUST_B,Svea Mobility Parts,Repair,20973.66,30
+2025-02-01,CUST_B,Svea Mobility Parts,Repair,15316.15,21
+2025-03-01,CUST_B,Svea Mobility Parts,Repair,15764.38,23
+2025-04-01,CUST_B,Svea Mobility Parts,Repair,13704.19,20
+2025-05-01,CUST_B,Svea Mobility Parts,Repair,11965.21,18
+2025-06-01,CUST_B,Svea Mobility Parts,Repair,12149.21,17
+2025-07-01,CUST_B,Svea Mobility Parts,Repair,16406.77,24
+2025-08-01,CUST_B,Svea Mobility Parts,Repair,11096.75,16
+2025-09-01,CUST_B,Svea Mobility Parts,Repair,12526.93,18
+2025-10-01,CUST_B,Svea Mobility Parts,Repair,13486.92,19
+2025-11-01,CUST_B,Svea Mobility Parts,Repair,14004.7,20
+2025-12-01,CUST_B,Svea Mobility Parts,Repair,20803.62,30
+2024-01-01,CUST_B,Svea Mobility Parts,Service,9841.82,30
+2024-02-01,CUST_B,Svea Mobility Parts,Service,8976.46,28
+2024-03-01,CUST_B,Svea Mobility Parts,Service,7698.6,24
+2024-04-01,CUST_B,Svea Mobility Parts,Service,6510.48,20
+2024-05-01,CUST_B,Svea Mobility Parts,Service,6337.72,20
+2024-06-01,CUST_B,Svea Mobility Parts,Service,6225.8,19
+2024-07-01,CUST_B,Svea Mobility Parts,Service,6569.1,20
+2024-08-01,CUST_B,Svea Mobility Parts,Service,5985.81,19
+2024-09-01,CUST_B,Svea Mobility Parts,Service,6158.2,19
+2024-10-01,CUST_B,Svea Mobility Parts,Service,6417.85,20
+2024-11-01,CUST_B,Svea Mobility Parts,Service,6276.36,19
+2024-12-01,CUST_B,Svea Mobility Parts,Service,7409.89,21
+2025-01-01,CUST_B,Svea Mobility Parts,Service,6642.02,20
+2025-02-01,CUST_B,Svea Mobility Parts,Service,6595.37,20
+2025-03-01,CUST_B,Svea Mobility Parts,Service,6563.59,20
+2025-04-01,CUST_B,Svea Mobility Parts,Service,6381.98,20
+2025-05-01,CUST_B,Svea Mobility Parts,Service,6490.43,20
+2025-06-01,CUST_B,Svea Mobility Parts,Service,6929.58,21
+2025-07-01,CUST_B,Svea Mobility Parts,Service,6250.77,19
+2025-08-01,CUST_B,Svea Mobility Parts,Service,6380.85,20
+2025-09-01,CUST_B,Svea Mobility Parts,Service,6160.23,19
+2025-10-01,CUST_B,Svea Mobility Parts,Service,6051.54,19
+2025-11-01,CUST_B,Svea Mobility Parts,Service,6252.68,19
+2025-12-01,CUST_B,Svea Mobility Parts,Service,6888.41,20
+2024-01-01,CUST_C,PromoDrive Retail,Accessories,3396.03,10
+2024-02-01,CUST_C,PromoDrive Retail,Accessories,3130.18,9
+2024-03-01,CUST_C,PromoDrive Retail,Accessories,2833.04,8
+2024-04-01,CUST_C,PromoDrive Retail,Accessories,2588.58,8
+2024-05-01,CUST_C,PromoDrive Retail,Accessories,2258.69,7
+2024-06-01,CUST_C,PromoDrive Retail,Accessories,2101.04,6
+2024-07-01,CUST_C,PromoDrive Retail,Accessories,2100.12,6
+2024-08-01,CUST_C,PromoDrive Retail,Accessories,1996.02,6
+2024-09-01,CUST_C,PromoDrive Retail,Accessories,2275.85,6
+2024-10-01,CUST_C,PromoDrive Retail,Accessories,2471.83,7
+2024-11-01,CUST_C,PromoDrive Retail,Accessories,2716.79,8
+2024-12-01,CUST_C,PromoDrive Retail,Accessories,2933.86,8
+2025-01-01,CUST_C,PromoDrive Retail,Accessories,2739.77,8
+2025-02-01,CUST_C,PromoDrive Retail,Accessories,2722.16,8
+2025-03-01,CUST_C,PromoDrive Retail,Accessories,2894.25,8
+2025-04-01,CUST_C,PromoDrive Retail,Accessories,2697.23,8
+2025-05-01,CUST_C,PromoDrive Retail,Accessories,2440.82,7
+2025-06-01,CUST_C,PromoDrive Retail,Accessories,2556.03,8
+2025-07-01,CUST_C,PromoDrive Retail,Accessories,2094.69,6
+2025-08-01,CUST_C,PromoDrive Retail,Accessories,1664.9,5
+2025-09-01,CUST_C,PromoDrive Retail,Accessories,1899.53,5
+2025-10-01,CUST_C,PromoDrive Retail,Accessories,1919.96,5
+2025-11-01,CUST_C,PromoDrive Retail,Accessories,3070.45,9
+2025-12-01,CUST_C,PromoDrive Retail,Accessories,2830.97,8
+2024-01-01,CUST_C,PromoDrive Retail,Diagnostics,4201.42,7
+2024-02-01,CUST_C,PromoDrive Retail,Diagnostics,3994.9,7
+2024-03-01,CUST_C,PromoDrive Retail,Diagnostics,3652.3,6
+2024-04-01,CUST_C,PromoDrive Retail,Diagnostics,3381.19,6
+2024-05-01,CUST_C,PromoDrive Retail,Diagnostics,2802.61,5
+2024-06-01,CUST_C,PromoDrive Retail,Diagnostics,2754.27,5
+2024-07-01,CUST_C,PromoDrive Retail,Diagnostics,2509.0,4
+2024-08-01,CUST_C,PromoDrive Retail,Diagnostics,2366.01,4
+2024-09-01,CUST_C,PromoDrive Retail,Diagnostics,2526.34,4
+2024-10-01,CUST_C,PromoDrive Retail,Diagnostics,2794.05,5
+2024-11-01,CUST_C,PromoDrive Retail,Diagnostics,2393.41,4
+2024-12-01,CUST_C,PromoDrive Retail,Diagnostics,2804.39,4
+2025-01-01,CUST_C,PromoDrive Retail,Diagnostics,2668.35,4
+2025-02-01,CUST_C,PromoDrive Retail,Diagnostics,3308.62,6
+2025-03-01,CUST_C,PromoDrive Retail,Diagnostics,3598.58,6
+2025-04-01,CUST_C,PromoDrive Retail,Diagnostics,3246.15,6
+2025-05-01,CUST_C,PromoDrive Retail,Diagnostics,2366.4,4
+2025-06-01,CUST_C,PromoDrive Retail,Diagnostics,2624.75,4
+2025-07-01,CUST_C,PromoDrive Retail,Diagnostics,2348.71,4
+2025-08-01,CUST_C,PromoDrive Retail,Diagnostics,2372.99,4
+2025-09-01,CUST_C,PromoDrive Retail,Diagnostics,2550.67,4
+2025-10-01,CUST_C,PromoDrive Retail,Diagnostics,2402.56,4
+2025-11-01,CUST_C,PromoDrive Retail,Diagnostics,2824.43,4
+2025-12-01,CUST_C,PromoDrive Retail,Diagnostics,3296.74,5
+2024-01-01,CUST_C,PromoDrive Retail,Maintenance,5259.14,30
+2024-02-01,CUST_C,PromoDrive Retail,Maintenance,4952.83,29
+2024-03-01,CUST_C,PromoDrive Retail,Maintenance,4579.96,26
+2024-04-01,CUST_C,PromoDrive Retail,Maintenance,4474.42,25
+2024-05-01,CUST_C,PromoDrive Retail,Maintenance,4181.58,24
+2024-06-01,CUST_C,PromoDrive Retail,Maintenance,4148.1,24
+2024-07-01,CUST_C,PromoDrive Retail,Maintenance,4375.89,24
+2024-08-01,CUST_C,PromoDrive Retail,Maintenance,4147.97,24
+2024-09-01,CUST_C,PromoDrive Retail,Maintenance,4448.13,25
+2024-10-01,CUST_C,PromoDrive Retail,Maintenance,4829.08,28
+2024-11-01,CUST_C,PromoDrive Retail,Maintenance,4229.92,24
+2024-12-01,CUST_C,PromoDrive Retail,Maintenance,4532.53,25
+2025-01-01,CUST_C,PromoDrive Retail,Maintenance,5300.18,30
+2025-02-01,CUST_C,PromoDrive Retail,Maintenance,4262.81,24
+2025-03-01,CUST_C,PromoDrive Retail,Maintenance,4475.76,25
+2025-04-01,CUST_C,PromoDrive Retail,Maintenance,5272.76,30
+2025-05-01,CUST_C,PromoDrive Retail,Maintenance,4241.29,24
+2025-06-01,CUST_C,PromoDrive Retail,Maintenance,4409.36,25
+2025-07-01,CUST_C,PromoDrive Retail,Maintenance,5124.04,29
+2025-08-01,CUST_C,PromoDrive Retail,Maintenance,4231.07,24
+2025-09-01,CUST_C,PromoDrive Retail,Maintenance,5309.29,30
+2025-10-01,CUST_C,PromoDrive Retail,Maintenance,4257.25,24
+2025-11-01,CUST_C,PromoDrive Retail,Maintenance,4248.11,24
+2025-12-01,CUST_C,PromoDrive Retail,Maintenance,5296.12,30
+2024-01-01,CUST_C,PromoDrive Retail,Service,11266.21,34
+2024-02-01,CUST_C,PromoDrive Retail,Service,10586.82,34
+2024-03-01,CUST_C,PromoDrive Retail,Service,9791.36,31
+2024-04-01,CUST_C,PromoDrive Retail,Service,9442.7,29
+2024-05-01,CUST_C,PromoDrive Retail,Service,8679.82,28
+2024-06-01,CUST_C,PromoDrive Retail,Service,8572.24,27
+2024-07-01,CUST_C,PromoDrive Retail,Service,8143.29,26
+2024-08-01,CUST_C,PromoDrive Retail,Service,7764.78,25
+2024-09-01,CUST_C,PromoDrive Retail,Service,8423.85,27
+2024-10-01,CUST_C,PromoDrive Retail,Service,8805.59,28
+2024-11-01,CUST_C,PromoDrive Retail,Service,9074.89,28
+2024-12-01,CUST_C,PromoDrive Retail,Service,9849.03,30
+2025-01-01,CUST_C,PromoDrive Retail,Service,9150.8,29
+2025-02-01,CUST_C,PromoDrive Retail,Service,9246.09,30
+2025-03-01,CUST_C,PromoDrive Retail,Service,9931.2,30
+2025-04-01,CUST_C,PromoDrive Retail,Service,8994.09,29
+2025-05-01,CUST_C,PromoDrive Retail,Service,9115.87,29
+2025-06-01,CUST_C,PromoDrive Retail,Service,8785.82,27
+2025-07-01,CUST_C,PromoDrive Retail,Service,8256.67,26
+2025-08-01,CUST_C,PromoDrive Retail,Service,8542.35,27
+2025-09-01,CUST_C,PromoDrive Retail,Service,9040.79,27
+2025-10-01,CUST_C,PromoDrive Retail,Service,8703.99,27
+2025-11-01,CUST_C,PromoDrive Retail,Service,8983.42,28
+2025-12-01,CUST_C,PromoDrive Retail,Service,9420.82,28
+2024-03-01,CUST_D,NewMotion Uppsala,Dealer Launch,5012.64,8
+2024-04-01,CUST_D,NewMotion Uppsala,Dealer Launch,5320.13,8
+2024-05-01,CUST_D,NewMotion Uppsala,Dealer Launch,5254.37,9
+2024-06-01,CUST_D,NewMotion Uppsala,Dealer Launch,4498.07,7
+2024-07-01,CUST_D,NewMotion Uppsala,Dealer Launch,3962.02,7
+2024-08-01,CUST_D,NewMotion Uppsala,Dealer Launch,2909.43,5
+2024-09-01,CUST_D,NewMotion Uppsala,Dealer Launch,3098.33,5
+2024-10-01,CUST_D,NewMotion Uppsala,Dealer Launch,2945.74,5
+2024-11-01,CUST_D,NewMotion Uppsala,Dealer Launch,2503.44,4
+2024-12-01,CUST_D,NewMotion Uppsala,Dealer Launch,2688.55,4
+2025-01-01,CUST_D,NewMotion Uppsala,Dealer Launch,2505.75,4
+2025-02-01,CUST_D,NewMotion Uppsala,Dealer Launch,2496.02,4
+2025-03-01,CUST_D,NewMotion Uppsala,Dealer Launch,2664.1,4
+2025-04-01,CUST_D,NewMotion Uppsala,Dealer Launch,2488.77,4
+2025-05-01,CUST_D,NewMotion Uppsala,Dealer Launch,2471.28,4
+2025-06-01,CUST_D,NewMotion Uppsala,Dealer Launch,2612.69,4
+2025-07-01,CUST_D,NewMotion Uppsala,Dealer Launch,2449.65,4
+2025-08-01,CUST_D,NewMotion Uppsala,Dealer Launch,2449.4,4
+2025-09-01,CUST_D,NewMotion Uppsala,Dealer Launch,2640.57,4
+2025-10-01,CUST_D,NewMotion Uppsala,Dealer Launch,2480.74,4
+2025-11-01,CUST_D,NewMotion Uppsala,Dealer Launch,2467.25,4
+2025-12-01,CUST_D,NewMotion Uppsala,Dealer Launch,2663.77,4
+2024-03-01,CUST_D,NewMotion Uppsala,Diagnostics,1180.96,2
+2024-04-01,CUST_D,NewMotion Uppsala,Diagnostics,1544.38,2
+2024-05-01,CUST_D,NewMotion Uppsala,Diagnostics,1829.11,3
+2024-06-01,CUST_D,NewMotion Uppsala,Diagnostics,1029.55,2
+2024-07-01,CUST_D,NewMotion Uppsala,Diagnostics,1019.82,2
+2024-09-01,CUST_D,NewMotion Uppsala,Diagnostics,942.15,1
+2024-10-01,CUST_D,NewMotion Uppsala,Diagnostics,944.22,1
+2024-11-01,CUST_D,NewMotion Uppsala,Diagnostics,2345.31,4
+2024-12-01,CUST_D,NewMotion Uppsala,Diagnostics,2534.06,4
+2025-01-01,CUST_D,NewMotion Uppsala,Diagnostics,2350.0,4
+2025-02-01,CUST_D,NewMotion Uppsala,Diagnostics,2345.45,4
+2025-03-01,CUST_D,NewMotion Uppsala,Diagnostics,2504.38,4
+2025-04-01,CUST_D,NewMotion Uppsala,Diagnostics,2190.98,4
+2025-05-01,CUST_D,NewMotion Uppsala,Diagnostics,2177.59,4
+2025-07-01,CUST_D,NewMotion Uppsala,Diagnostics,1477.59,3
+2025-09-01,CUST_D,NewMotion Uppsala,Diagnostics,1735.99,3
+2025-10-01,CUST_D,NewMotion Uppsala,Diagnostics,1893.77,3
+2025-11-01,CUST_D,NewMotion Uppsala,Diagnostics,1759.83,3
+2025-12-01,CUST_D,NewMotion Uppsala,Diagnostics,1922.37,3
+2024-03-01,CUST_D,NewMotion Uppsala,EV Service,3370.47,4
+2024-04-01,CUST_D,NewMotion Uppsala,EV Service,3571.55,4
+2024-05-01,CUST_D,NewMotion Uppsala,EV Service,3625.31,4
+2024-06-01,CUST_D,NewMotion Uppsala,EV Service,3314.61,4
+2024-07-01,CUST_D,NewMotion Uppsala,EV Service,3533.22,4
+2024-08-01,CUST_D,NewMotion Uppsala,EV Service,3329.61,4
+2024-09-01,CUST_D,NewMotion Uppsala,EV Service,3588.22,4
+2024-10-01,CUST_D,NewMotion Uppsala,EV Service,4003.64,5
+2024-11-01,CUST_D,NewMotion Uppsala,EV Service,3389.09,4
+2024-12-01,CUST_D,NewMotion Uppsala,EV Service,3651.06,4
+2025-01-01,CUST_D,NewMotion Uppsala,EV Service,3400.47,4
+2025-02-01,CUST_D,NewMotion Uppsala,EV Service,3372.1,4
+2025-03-01,CUST_D,NewMotion Uppsala,EV Service,3620.94,4
+2025-04-01,CUST_D,NewMotion Uppsala,EV Service,3379.21,4
+2025-05-01,CUST_D,NewMotion Uppsala,EV Service,3369.87,4
+2025-06-01,CUST_D,NewMotion Uppsala,EV Service,3556.43,4
+2025-07-01,CUST_D,NewMotion Uppsala,EV Service,3333.13,4
+2025-08-01,CUST_D,NewMotion Uppsala,EV Service,3353.72,4
+2025-09-01,CUST_D,NewMotion Uppsala,EV Service,3585.05,4
+2025-10-01,CUST_D,NewMotion Uppsala,EV Service,3383.82,4
+2025-11-01,CUST_D,NewMotion Uppsala,EV Service,3407.46,4
+2025-12-01,CUST_D,NewMotion Uppsala,EV Service,3638.77,4
+2024-03-01,CUST_D,NewMotion Uppsala,Maintenance,634.43,4
+2024-04-01,CUST_D,NewMotion Uppsala,Maintenance,669.97,4
+2024-05-01,CUST_D,NewMotion Uppsala,Maintenance,676.4,4
+2024-06-01,CUST_D,NewMotion Uppsala,Maintenance,621.21,4
+2024-07-01,CUST_D,NewMotion Uppsala,Maintenance,657.24,4
+2024-08-01,CUST_D,NewMotion Uppsala,Maintenance,617.32,4
+2024-09-01,CUST_D,NewMotion Uppsala,Maintenance,660.59,4
+2024-10-01,CUST_D,NewMotion Uppsala,Maintenance,742.74,5
+2024-11-01,CUST_D,NewMotion Uppsala,Maintenance,634.09,4
+2024-12-01,CUST_D,NewMotion Uppsala,Maintenance,743.2,4
+2025-01-01,CUST_D,NewMotion Uppsala,Maintenance,675.01,4
+2025-02-01,CUST_D,NewMotion Uppsala,Maintenance,745.56,5
+2025-03-01,CUST_D,NewMotion Uppsala,Maintenance,792.68,5
+2025-04-01,CUST_D,NewMotion Uppsala,Maintenance,745.19,5
+2025-05-01,CUST_D,NewMotion Uppsala,Maintenance,628.55,4
+2025-06-01,CUST_D,NewMotion Uppsala,Maintenance,667.36,4
+2025-07-01,CUST_D,NewMotion Uppsala,Maintenance,622.58,4
+2025-08-01,CUST_D,NewMotion Uppsala,Maintenance,627.62,4
+2025-09-01,CUST_D,NewMotion Uppsala,Maintenance,672.88,4
+2025-10-01,CUST_D,NewMotion Uppsala,Maintenance,634.52,4
+2025-11-01,CUST_D,NewMotion Uppsala,Maintenance,635.69,4
+2025-12-01,CUST_D,NewMotion Uppsala,Maintenance,713.21,4
+2024-03-01,CUST_D,NewMotion Uppsala,Service,1603.06,4
+2024-04-01,CUST_D,NewMotion Uppsala,Service,1703.56,4
+2024-05-01,CUST_D,NewMotion Uppsala,Service,1737.05,4
+2024-06-01,CUST_D,NewMotion Uppsala,Service,1591.6,4
+2024-07-01,CUST_D,NewMotion Uppsala,Service,1690.52,4
+2024-08-01,CUST_D,NewMotion Uppsala,Service,1587.55,4
+2024-09-01,CUST_D,NewMotion Uppsala,Service,1697.7,4
+2024-10-01,CUST_D,NewMotion Uppsala,Service,1894.57,5
+2024-11-01,CUST_D,NewMotion Uppsala,Service,1609.15,4
+2024-12-01,CUST_D,NewMotion Uppsala,Service,1731.34,4
+2025-01-01,CUST_D,NewMotion Uppsala,Service,1604.69,4
+2025-02-01,CUST_D,NewMotion Uppsala,Service,1586.99,4
+2025-03-01,CUST_D,NewMotion Uppsala,Service,1699.14,4
+2025-04-01,CUST_D,NewMotion Uppsala,Service,1563.61,4
+2025-05-01,CUST_D,NewMotion Uppsala,Service,1584.05,4
+2025-06-01,CUST_D,NewMotion Uppsala,Service,1693.91,4
+2025-07-01,CUST_D,NewMotion Uppsala,Service,1581.61,4
+2025-08-01,CUST_D,NewMotion Uppsala,Service,1586.3,4
+2025-09-01,CUST_D,NewMotion Uppsala,Service,1694.72,4
+2025-10-01,CUST_D,NewMotion Uppsala,Service,1599.36,4
+2025-11-01,CUST_D,NewMotion Uppsala,Service,1605.85,4
+2025-12-01,CUST_D,NewMotion Uppsala,Service,1714.85,4
+2024-01-01,CUST_E,Arctic Niche Auto,Accessories,654.93,2
+2024-02-01,CUST_E,Arctic Niche Auto,Accessories,576.99,2
+2024-03-01,CUST_E,Arctic Niche Auto,Accessories,450.38,1
+2024-04-01,CUST_E,Arctic Niche Auto,Accessories,328.5,1
+2024-05-01,CUST_E,Arctic Niche Auto,Accessories,325.91,1
+2024-06-01,CUST_E,Arctic Niche Auto,Accessories,325.87,1
+2024-07-01,CUST_E,Arctic Niche Auto,Accessories,397.88,1
+2024-08-01,CUST_E,Arctic Niche Auto,Accessories,326.81,1
+2024-09-01,CUST_E,Arctic Niche Auto,Accessories,327.7,1
+2024-10-01,CUST_E,Arctic Niche Auto,Accessories,326.28,1
+2024-11-01,CUST_E,Arctic Niche Auto,Accessories,328.71,1
+2024-12-01,CUST_E,Arctic Niche Auto,Accessories,329.29,1
+2025-01-01,CUST_E,Arctic Niche Auto,Accessories,331.35,1
+2025-02-01,CUST_E,Arctic Niche Auto,Accessories,330.62,1
+2025-03-01,CUST_E,Arctic Niche Auto,Accessories,331.38,1
+2025-04-01,CUST_E,Arctic Niche Auto,Accessories,326.33,1
+2025-05-01,CUST_E,Arctic Niche Auto,Accessories,328.96,1
+2025-06-01,CUST_E,Arctic Niche Auto,Accessories,397.22,1
+2025-07-01,CUST_E,Arctic Niche Auto,Accessories,326.63,1
+2025-08-01,CUST_E,Arctic Niche Auto,Accessories,326.18,1
+2025-09-01,CUST_E,Arctic Niche Auto,Accessories,321.96,1
+2025-10-01,CUST_E,Arctic Niche Auto,Accessories,323.86,1
+2025-11-01,CUST_E,Arctic Niche Auto,Accessories,325.45,1
+2025-12-01,CUST_E,Arctic Niche Auto,Accessories,329.81,1
+2024-01-01,CUST_E,Arctic Niche Auto,Diagnostics,1757.79,3
+2024-02-01,CUST_E,Arctic Niche Auto,Diagnostics,1610.82,3
+2024-03-01,CUST_E,Arctic Niche Auto,Diagnostics,1388.54,2
+2024-04-01,CUST_E,Arctic Niche Auto,Diagnostics,1172.16,2
+2024-05-01,CUST_E,Arctic Niche Auto,Diagnostics,1143.75,2
+2024-06-01,CUST_E,Arctic Niche Auto,Diagnostics,1141.47,2
+2024-07-01,CUST_E,Arctic Niche Auto,Diagnostics,1280.62,2
+2024-08-01,CUST_E,Arctic Niche Auto,Diagnostics,1143.48,2
+2024-09-01,CUST_E,Arctic Niche Auto,Diagnostics,1147.98,2
+2024-10-01,CUST_E,Arctic Niche Auto,Diagnostics,1164.46,2
+2024-11-01,CUST_E,Arctic Niche Auto,Diagnostics,1162.25,2
+2024-12-01,CUST_E,Arctic Niche Auto,Diagnostics,1160.08,2
+2025-01-01,CUST_E,Arctic Niche Auto,Diagnostics,1166.61,2
+2025-02-01,CUST_E,Arctic Niche Auto,Diagnostics,1147.35,2
+2025-03-01,CUST_E,Arctic Niche Auto,Diagnostics,1155.13,2
+2025-04-01,CUST_E,Arctic Niche Auto,Diagnostics,1137.66,2
+2025-05-01,CUST_E,Arctic Niche Auto,Diagnostics,1142.91,2
+2025-06-01,CUST_E,Arctic Niche Auto,Diagnostics,1387.53,2
+2025-07-01,CUST_E,Arctic Niche Auto,Diagnostics,1156.91,2
+2025-08-01,CUST_E,Arctic Niche Auto,Diagnostics,1035.61,2
+2025-09-01,CUST_E,Arctic Niche Auto,Diagnostics,1150.18,2
+2025-10-01,CUST_E,Arctic Niche Auto,Diagnostics,1156.43,2
+2025-11-01,CUST_E,Arctic Niche Auto,Diagnostics,1154.63,2
+2025-12-01,CUST_E,Arctic Niche Auto,Diagnostics,1032.1,2
+2024-01-01,CUST_E,Arctic Niche Auto,Maintenance,1036.07,6
+2024-02-01,CUST_E,Arctic Niche Auto,Maintenance,914.37,5
+2024-03-01,CUST_E,Arctic Niche Auto,Maintenance,714.77,4
+2024-04-01,CUST_E,Arctic Niche Auto,Maintenance,517.15,3
+2024-05-01,CUST_E,Arctic Niche Auto,Maintenance,509.23,3
+2024-06-01,CUST_E,Arctic Niche Auto,Maintenance,506.64,3
+2024-07-01,CUST_E,Arctic Niche Auto,Maintenance,612.57,3
+2024-08-01,CUST_E,Arctic Niche Auto,Maintenance,508.38,3
+2024-09-01,CUST_E,Arctic Niche Auto,Maintenance,517.09,3
+2024-10-01,CUST_E,Arctic Niche Auto,Maintenance,521.62,3
+2024-11-01,CUST_E,Arctic Niche Auto,Maintenance,511.41,3
+2024-12-01,CUST_E,Arctic Niche Auto,Maintenance,561.68,3
+2025-01-01,CUST_E,Arctic Niche Auto,Maintenance,512.14,3
+2025-02-01,CUST_E,Arctic Niche Auto,Maintenance,509.6,3
+2025-03-01,CUST_E,Arctic Niche Auto,Maintenance,514.71,3
+2025-04-01,CUST_E,Arctic Niche Auto,Maintenance,509.95,3
+2025-05-01,CUST_E,Arctic Niche Auto,Maintenance,505.29,3
+2025-06-01,CUST_E,Arctic Niche Auto,Maintenance,618.8,3
+2025-07-01,CUST_E,Arctic Niche Auto,Maintenance,507.03,3
+2025-08-01,CUST_E,Arctic Niche Auto,Maintenance,511.15,3
+2025-09-01,CUST_E,Arctic Niche Auto,Maintenance,513.53,3
+2025-10-01,CUST_E,Arctic Niche Auto,Maintenance,506.89,3
+2025-11-01,CUST_E,Arctic Niche Auto,Maintenance,512.64,3
+2025-12-01,CUST_E,Arctic Niche Auto,Maintenance,470.66,3
+2024-01-01,CUST_E,Arctic Niche Auto,Repair,1530.77,3
+2024-02-01,CUST_E,Arctic Niche Auto,Repair,1398.9,3
+2024-03-01,CUST_E,Arctic Niche Auto,Repair,1200.9,2
+2024-04-01,CUST_E,Arctic Niche Auto,Repair,1002.87,2
+2024-05-01,CUST_E,Arctic Niche Auto,Repair,995.18,2
+2024-06-01,CUST_E,Arctic Niche Auto,Repair,990.74,2
+2024-07-01,CUST_E,Arctic Niche Auto,Repair,1197.52,2
+2024-08-01,CUST_E,Arctic Niche Auto,Repair,1011.82,2
+2024-09-01,CUST_E,Arctic Niche Auto,Repair,1026.9,2
+2024-10-01,CUST_E,Arctic Niche Auto,Repair,1147.79,2
+2024-11-01,CUST_E,Arctic Niche Auto,Repair,1038.17,2
+2024-12-01,CUST_E,Arctic Niche Auto,Repair,1043.59,2
+2025-01-01,CUST_E,Arctic Niche Auto,Repair,1028.68,2
+2025-02-01,CUST_E,Arctic Niche Auto,Repair,1015.97,2
+2025-03-01,CUST_E,Arctic Niche Auto,Repair,1001.97,2
+2025-04-01,CUST_E,Arctic Niche Auto,Repair,996.16,2
+2025-05-01,CUST_E,Arctic Niche Auto,Repair,1007.35,2
+2025-06-01,CUST_E,Arctic Niche Auto,Repair,1233.61,2
+2025-07-01,CUST_E,Arctic Niche Auto,Repair,1021.06,2
+2025-08-01,CUST_E,Arctic Niche Auto,Repair,1024.79,2
+2025-09-01,CUST_E,Arctic Niche Auto,Repair,1019.11,2
+2025-10-01,CUST_E,Arctic Niche Auto,Repair,1021.63,2
+2025-11-01,CUST_E,Arctic Niche Auto,Repair,1022.18,2
+2025-12-01,CUST_E,Arctic Niche Auto,Repair,1021.26,2
+2024-01-01,CUST_E,Arctic Niche Auto,Service,1010.35,5
+2024-02-01,CUST_E,Arctic Niche Auto,Service,908.81,5
+2024-03-01,CUST_E,Arctic Niche Auto,Service,751.93,4
+2024-04-01,CUST_E,Arctic Niche Auto,Service,599.03,3
+2024-05-01,CUST_E,Arctic Niche Auto,Service,590.7,3
+2024-06-01,CUST_E,Arctic Niche Auto,Service,590.25,3
+2024-07-01,CUST_E,Arctic Niche Auto,Service,676.91,3
+2024-08-01,CUST_E,Arctic Niche Auto,Service,592.27,3
+2024-09-01,CUST_E,Arctic Niche Auto,Service,597.64,3
+2024-10-01,CUST_E,Arctic Niche Auto,Service,604.81,3
+2024-11-01,CUST_E,Arctic Niche Auto,Service,600.89,3
+2024-12-01,CUST_E,Arctic Niche Auto,Service,606.65,3
+2025-01-01,CUST_E,Arctic Niche Auto,Service,594.39,3
+2025-02-01,CUST_E,Arctic Niche Auto,Service,590.42,3
+2025-03-01,CUST_E,Arctic Niche Auto,Service,599.92,3
+2025-04-01,CUST_E,Arctic Niche Auto,Service,594.56,3
+2025-05-01,CUST_E,Arctic Niche Auto,Service,594.91,3
+2025-06-01,CUST_E,Arctic Niche Auto,Service,717.29,3
+2025-07-01,CUST_E,Arctic Niche Auto,Service,592.09,3
+2025-08-01,CUST_E,Arctic Niche Auto,Service,595.58,3
+2025-09-01,CUST_E,Arctic Niche Auto,Service,592.51,3
+2025-10-01,CUST_E,Arctic Niche Auto,Service,601.5,3
+2025-11-01,CUST_E,Arctic Niche Auto,Service,596.31,3
+2025-12-01,CUST_E,Arctic Niche Auto,Service,545.76,3

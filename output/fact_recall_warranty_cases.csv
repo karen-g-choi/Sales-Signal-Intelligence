@@ -1,0 +1,2 @@
+recall_case_id,case_name,product_id,start_date,end_date,case_status,severity
+CASE_3001,Cooling hose warranty action,P6,2025-02-03,2025-03-09,closed,high

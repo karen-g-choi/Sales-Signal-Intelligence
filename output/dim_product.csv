@@ -1,0 +1,15 @@
+product_id,product_name,category_l1,category_l2,substitute_type,platform_type,effort_type,effort_rule_id,lifecycle_stage,scenario_role,base_daily_demand,list_price
+P1,Core Oil Filter,Maintenance,Filters,direct,ICE,effort_less,RULE_01,mature,stable_baseline,1.05,180.0
+P2,Universal Cabin Filter,Maintenance,Filters,direct,All,effort_less,RULE_01,mature,stable_baseline,0.9,165.0
+P3,Campaign Brake Pad Kit,Service,Brakes,limited,All,effort_driven,RULE_02,mature,recurring_promo,0.75,420.0
+P4,Seasonal Wiper Set,Service,Visibility,direct,All,effort_driven,RULE_02,mature,recurring_promo,0.6,210.0
+P5,Workshop Battery Pack,Repair,Electrical,project_specific,ICE,mixed,RULE_03,mature,one_off_bulk,0.42,980.0
+P6,Cooling Recall Repair Kit,Repair,Cooling,none,ICE,effort_driven,RULE_02,mature,recall_warranty,0.25,760.0
+P7,Launch Essentials Bundle,Dealer Launch,Starter Pack,bundle,All,mixed,RULE_03,growth,new_dealer,0.35,640.0
+P8,Alignment Sensor Kit,Repair,Sensors,limited,All,mixed,RULE_03,mature,hidden_drop,0.58,530.0
+P9,Promo Support Air Filter,Maintenance,Filters,direct,All,effort_driven,RULE_02,mature,promo_absence,0.68,195.0
+P10,Flash Sale Charge Cable,Accessories,Charging,direct,All,effort_driven,RULE_02,growth,extreme_promo,0.36,350.0
+P11,ICE Ignition Coil,Powertrain,Ignition,direct,ICE,effort_less,RULE_01,late_mature,new_normal_ice_decline,0.62,410.0
+P12,ICE Fuel System Cleaner,Powertrain,Fuel,direct,ICE,effort_less,RULE_01,late_mature,new_normal_ice_decline,0.7,260.0
+P13,EV Thermal Module,EV Service,Thermal,limited,EV,effort_driven,RULE_02,growth,new_normal_ev_growth,0.38,890.0
+P14,Hybrid Demand Diagnostic Pack,Diagnostics,Mixed Pattern,bundle,All,mixed,RULE_03,mature,mixed_ambiguous,0.48,610.0

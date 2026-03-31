@@ -1,0 +1,12 @@
+Validation summary
+- All required tables were generated.
+- Calendar covers 2024-01-01 to 2025-12-31.
+- Strict product-to-vehicle mappings match the provided seed data.
+- All nine event layers exist in the correct order.
+- Promotion traceability fields are present for future classification logic.
+- Mixed ambiguous events carry an analyst review hint.
+- Raw baseline output includes the required product context columns.
+- Orders carry event traceability fields with valid event_layer values.
+- Orders and invoices include valid line-level sales amounts.
+- Invoice lines link cleanly back to order lines.
+- Invoices include both standard and delayed/partial fulfillment behavior.

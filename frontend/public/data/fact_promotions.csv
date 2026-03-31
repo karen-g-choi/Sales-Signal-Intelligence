@@ -1,0 +1,9 @@
+promo_id,promotion_name,promotion_type,customer_id,product_id,start_date,end_date,uplift_multiplier,promotion_status,recurring_flag,one_off_campaign_flag,promo_classification_hint
+PROMO_001,Quarter-start brake campaign,recurring,CUST_C,P3,2024-02-12,2024-02-25,1.3,executed,True,False,normal
+PROMO_002,Summer brake campaign,recurring,CUST_C,P3,2024-06-10,2024-06-23,1.28,executed,True,False,normal
+PROMO_004,Autumn visibility push,recurring,CUST_A,P4,2024-10-07,2024-10-20,1.22,executed,True,False,normal
+PROMO_005,Retail wiper promotion,recurring,CUST_C,P4,2024-11-04,2024-11-17,1.35,executed,True,False,normal
+PROMO_003,Repeat brake campaign,recurring,CUST_C,P3,2025-02-10,2025-02-23,1.27,executed,True,False,normal
+PROMO_006,Dealer support campaign,recurring,CUST_D,P3,2025-04-07,2025-04-20,1.2,executed,True,False,normal
+PROMO_6001,Spring air-filter campaign not repeated,planned_but_absent,CUST_C,P9,2025-05-05,2025-05-18,0.72,missed,True,False,normal_expected_but_missing
+PROMO_9001,Black week charging blitz,extreme,CUST_C,P10,2025-11-17,2025-11-30,3.8,executed,False,True,exceptional

@@ -1,0 +1,6 @@
+customer_id,customer_name,customer_contact_name,delivery_address,region_id,order_cycle,channel_type,dealer_launch_date,dealer_launch_week,customer_status,customer_size,size_multiplier,baseline_volatility,role_description
+CUST_A,NordAuto Stockholm,Anna Lindberg,"Sveavagen 18, 111 57 Stockholm",REGION_SE,weekly,dealer,2020-01-06,2020-W02,active,large,1.85,0.05,large established dealer
+CUST_B,Svea Mobility Parts,Erik Sjostrom,"Lindholmsallén 14, 417 55 Gothenburg",REGION_SE_W,biweekly,dealer,2021-03-15,2021-W11,active,mid,1.05,0.06,mid-size stable dealer
+CUST_C,PromoDrive Retail,Maja Holm,"Magasinsgatan 7, 411 18 Gothenburg",REGION_SE_W,weekly,retail_partner,2022-09-05,2022-W36,active,mid,0.95,0.08,promo-sensitive dealer
+CUST_D,NewMotion Uppsala,Johan Ek,"Stationsgatan 24, 753 40 Uppsala",REGION_SE_E,weekly,dealer,2024-03-04,2024-W10,active,small,0.7,0.07,newly launched dealer
+CUST_E,Arctic Niche Auto,Sara Nyberg,"Storgatan 9, 972 38 Lulea",REGION_SE_N,monthly,independent_shop,2021-06-07,2021-W23,active,small,0.5,0.14,small volatile dealer

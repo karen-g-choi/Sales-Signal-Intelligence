@@ -1,0 +1,4 @@
+effort_rule_id,effort_classification,rule_description
+RULE_01,baseline_repeat,Mostly steady demand with low commercial intervention.
+RULE_02,campaign_driven,Demand reacts strongly when discounts or campaigns are applied.
+RULE_03,mixed_signal,Demand reflects both normal replenishment and scenario-specific disruption.

@@ -1,0 +1,6 @@
+vehicle_model_id,vehicle_model_name,platform_type
+VM001,Aurora Sedan,ICE
+VM002,Fjord SUV,ICE
+VM003,Polaris Wagon,Hybrid
+VM004,Voltis Compact,EV
+VM005,Eon Crossover,EV
