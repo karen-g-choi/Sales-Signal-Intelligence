@@ -22,6 +22,12 @@ Before the frontend starts, the `sync:data` step copies the latest CSV files
 from `./output` into `./frontend/public/data`, so the dashboard stays aligned
 with the generated dataset.
 
+## AI Collaboration Note
+
+This project was developed with AI-assisted implementation support.
+
+I used AI as a collaborative build partner to help translate business requirements into structured synthetic data logic, analytical rules, and dashboard design, while keeping the project explainable, business-facing, and portfolio-ready.
+
 ## Purpose
 
 This project generates a structured synthetic sales dataset for a business analytics portfolio.
