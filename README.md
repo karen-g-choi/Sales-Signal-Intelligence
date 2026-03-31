@@ -7,6 +7,7 @@ A structured sales analytics project that separates baseline demand from event-d
 If you want to see the dashboard first, start here:
 
 - Live dashboard: `https://karen-g-choi.github.io/Sales-Signal-Intelligence/`
+- Live dashboard: [Open the live dashboard](https://karen-g-choi.github.io/Sales-Signal-Intelligence/)
 - React frontend source: `./frontend`
 - Generated dashboard data: `./frontend/public/data`
 
@@ -250,7 +251,7 @@ repository.
 
 The live dashboard URL is:
 
-- `https://karen-g-choi.github.io/Sales-Signal-Intelligence/`
+- [Open the live dashboard](https://karen-g-choi.github.io/Sales-Signal-Intelligence/)
 
 ## Code Map
 
