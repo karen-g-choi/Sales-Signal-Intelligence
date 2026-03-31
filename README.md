@@ -219,6 +219,28 @@ The project also includes a polished React frontend in `./frontend`.
 It reads the existing CSV outputs and presents them in a more product-like
 admin dashboard shell with:
 
+- Sales Overview
+- Risk & Detection
+- Rule Configuration
+
+Run it locally with:
+
+```bash
+cd frontend
+npm install
+npm run dev
+```
+
+## GitHub Pages
+
+The React dashboard is configured for GitHub Pages deployment from this
+repository.
+
+Once GitHub Pages is enabled for the repository's GitHub Actions workflow,
+the live dashboard URL will be:
+
+- `https://karen-g-choi.github.io/Sales-Signal-Intelligence/`
+
 - `Sales Overview`
 - `Risk & Detection`
 - `Rule Configuration`

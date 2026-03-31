@@ -2,7 +2,9 @@ import Papa from "papaparse";
 
 export async function loadCsv<T>(fileName: string): Promise<T[]> {
   const cacheBuster = `${Date.now()}-${Math.random().toString(36).slice(2, 8)}`;
-  const response = await fetch(`/data/${fileName}?v=${cacheBuster}`, {
+  const baseUrl = import.meta.env.BASE_URL || "/";
+  const normalizedBase = baseUrl.endsWith("/") ? baseUrl : `${baseUrl}/`;
+  const response = await fetch(`${normalizedBase}data/${fileName}?v=${cacheBuster}`, {
     cache: "no-store",
   });
   if (!response.ok) {
