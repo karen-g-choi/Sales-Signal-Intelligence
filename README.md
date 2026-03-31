@@ -2,6 +2,26 @@
 
 A structured sales analytics project that separates baseline demand from event-driven sales patterns to reveal true commercial performance.
 
+## View the Dashboard
+
+If you want to see the dashboard first, start here:
+
+- Live dashboard: `https://karen-g-choi.github.io/Sales-Signal-Intelligence/`
+- React frontend source: `./frontend`
+- Generated dashboard data: `./frontend/public/data`
+
+Run the React dashboard locally with:
+
+```bash
+cd frontend
+npm install
+npm run dev
+```
+
+Before the frontend starts, the `sync:data` step copies the latest CSV files
+from `./output` into `./frontend/public/data`, so the dashboard stays aligned
+with the generated dataset.
+
 ## Purpose
 
 This project generates a structured synthetic sales dataset for a business analytics portfolio.
@@ -223,39 +243,14 @@ admin dashboard shell with:
 - Risk & Detection
 - Rule Configuration
 
-Run it locally with:
-
-```bash
-cd frontend
-npm install
-npm run dev
-```
-
 ## GitHub Pages
 
 The React dashboard is configured for GitHub Pages deployment from this
 repository.
 
-Once GitHub Pages is enabled for the repository's GitHub Actions workflow,
-the live dashboard URL will be:
+The live dashboard URL is:
 
 - `https://karen-g-choi.github.io/Sales-Signal-Intelligence/`
-
-- `Sales Overview`
-- `Risk & Detection`
-- `Rule Configuration`
-
-Run it with:
-
-```bash
-cd frontend
-npm install
-npm run dev
-```
-
-Before the app starts, the `sync:data` step copies the current CSV files from
-`./output` into `./frontend/public/data` so the frontend stays connected to
-the existing synthetic dataset.
 
 ## Code Map
 
